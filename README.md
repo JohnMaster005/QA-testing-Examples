@@ -13,6 +13,7 @@ This repository includes a variety of QA-related examples that I’ve worked on 
 #### 1. Manual Testing Examples
    - **Test Case Creation:**  
      I have written test cases for various web applications and websites. These include testing features such as user registration, profile updates, and more.
+     📌 **[View Test Cases]([URL_DEL_ARCHIVO_O_CARPETA_EN_GITHUB](https://docs.google.com/spreadsheets/d/1nWq0zAsFL37M3CtOH-xVwpvTc2AqYpYlluocl6Bpthw/edit?usp=sharing))**  
    - **Bug Reporting:**  
      I’ve documented the issues found during my testing process, reporting them with severity levels, steps to reproduce, and recommendations for resolution.
 
