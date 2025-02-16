@@ -1,52 +1,47 @@
-# Software Testing Portfolio
+# QA Testing Portfolio
 
-This portfolio includes a collection of software testing projects and tasks that I have worked on during my learning journey. Currently, I am enhancing my skills through various courses, including "Software Testing from Scratch: MasterClass all-in-1" on Udemy.
+Welcome to my **QA Testing Portfolio**! This repository is a collection of projects and examples that showcase my journey and skills in software testing. As I transition into a more technical role in Quality Assurance (QA), I am continuously expanding my knowledge and applying my learning to various real-world testing scenarios.
 
-### My Projects
+### Why This Repository?
+I created this repository to document and demonstrate my understanding of the core principles and practices of software testing. The projects here represent my work as I develop expertise in manual testing, test case creation, bug reporting, and various QA methodologies.
 
-#### 1. **Manual Testing of Online Shop**
-   - **Test Cases:**
-     - Website tested: [Example Online Shop](https://www.example.com) *(Link to actual website used for testing)*
-     - [Test Cases in Excel](https://drive.google.com/your-link-to-excel) *(Link to the Google Drive folder with Test Cases)*
-   - **Bug Reports:**
-     - Website Bug Report: [Bug Report 1](https://drive.google.com/your-link-to-report) *(Link to detailed bug report)*
-     - Mobile Bug Reports (OLX native app): [Bug Report 2](https://drive.google.com/your-link-to-mobile-report) *(Link to mobile bug report)*
+Through this portfolio, I aim to highlight my ability to identify issues, improve software quality, and understand the testing process from start to finish. While I am still learning and refining my skills, I’m dedicated to building a strong foundation in QA.
 
-#### 2. **Automated Testing with JavaScript & Cucumber**
-   - **Test Automation:**
-     - Automated tests for adding to cart functionality on an online store.
-     - **Tools Used:**
-       - JavaScript, Cucumber, WebdriverIO, Visual Studio Code
-     - **How to Run:**
-       - Clone repository: `git clone https://github.com/your-github-repo`
-       - Run `yarn install` to install dependencies
-       - Run `yarn wdio` to execute tests
+### What’s Included?
+This repository includes a variety of QA-related examples that I’ve worked on or am currently exploring:
 
-#### 3. **Exploratory Testing**
-   - Tested features in various mobile apps and websites for functionality, UI issues, and user experience problems.
-   - Bug reports were written for each found issue, highlighting severity and steps to reproduce.
+#### 1. Manual Testing Examples
+   - **Test Case Creation:**  
+     I have written test cases for various web applications and websites. These include testing features such as user registration, profile updates, and more.
+   - **Bug Reporting:**  
+     I’ve documented the issues found during my testing process, reporting them with severity levels, steps to reproduce, and recommendations for resolution.
 
----
+#### 2. Exploratory Testing
+   - I’ve tested apps and websites for usability, functionality, and UI issues without predefined test scripts. This helps identify potential problems that may not be caught in formal test cases.
+
+#### 3. QA Methodologies and Techniques
+   - **Agile Testing**  
+     I am currently learning how Agile methodologies impact QA testing, including the importance of writing test cases during development, continuous feedback, and collaboration within sprint cycles.
+   - **Test Strategy Development**  
+     I’ve worked on creating test plans and strategies that align with the needs of Agile projects.
 
 ### Tools & Technologies Used
+- **Manual Testing:** Test Case Creation, Exploratory Testing, Bug Reporting  
+- **Other Tools:** Postman (for API testing), Git/GitHub for version control, and basic SQL for database queries.
 
-- **Test Automation Tools:** JavaScript, Cypress, Gherkin, Cucumber, WebdriverIO
-- **Manual Testing:** Test Cases in Excel, Exploratory Testing, Bug Reporting
-- **Other Tools:** Postman, SQL, DevTools, Git/GitHub
-
----
-
-### Courses Completed
-
+### Courses & Learning
 - **"Software Testing from Scratch: MasterClass all-in-1" (Udemy)**  
-  Key Topics:  
-  - Exploratory Testing  
-  - Writing Test Cases  
-  - Bug Reporting  
-  - SQL Basics  
+  Topics covered:
+  - Exploratory Testing
+  - Writing Effective Test Cases
+  - Bug Reporting
+  - Basic SQL for Testing
 
 - **"Kick off your gaming QA career - basics of testing for games" (Udemy)**  
-  Key Topics:  
-  - Game Testing Fundamentals  
-  - Functional Testing of Game Features  
-  - Bug Reporting for Games  
+  Topics covered:
+  - Game Testing Fundamentals
+  - Functional Testing of Game Features
+  - Reporting Bugs in Games
+
+### Future Plans
+I’m constantly learning and adding new skills to my QA toolkit. As I progress, I plan to include more examples, work on automation, and explore advanced testing practices. Stay tuned for updates as I continue to grow in the field of QA!
