@@ -31,18 +31,12 @@ This repository includes a variety of QA-related examples that I’ve worked on 
 - **Other Tools:** Postman (for API testing), Git/GitHub for version control, and basic SQL for database queries.
 
 ### Courses & Learning
-- **"Software Testing from Scratch: MasterClass all-in-1" (Udemy)**  
+- **"Software Testing from Scratch: MasterClass all-in-1" (Software Testing desde cero: MasterClass todo en 1 (Udemy)**  
   Topics covered:
   - Exploratory Testing
   - Writing Effective Test Cases
   - Bug Reporting
   - Basic SQL for Testing
-
-- **"Kick off your gaming QA career - basics of testing for games" (Udemy)**  
-  Topics covered:
-  - Game Testing Fundamentals
-  - Functional Testing of Game Features
-  - Reporting Bugs in Games
 
 ### Future Plans
 I’m constantly learning and adding new skills to my QA toolkit. As I progress, I plan to include more examples, work on automation, and explore advanced testing practices. Stay tuned for updates as I continue to grow in the field of QA!
