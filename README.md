@@ -34,6 +34,10 @@ This repository includes a variety of QA-related examples that I’ve worked on 
 - **Agile Testing** – Learning about Agile methodologies and their impact on QA, including how to create test cases during development and collaborate in sprint cycles.
 - **Test Strategy Development** – Exploring the creation of test plans and strategies that align with project goals.
 
+Example 1: https://sharing.clickup.com/24568584/t/h/86b4bjp17/YEFU2P33SNK859F
+Example 2: https://sharing.clickup.com/24568584/t/h/86b45c17h/0ELHALQJ9PQ8GGV
+Example 3: https://sharing.clickup.com/24568584/t/h/86b47x7z3/GN3O4P1KLWGM0UG
+
 ## Courses & Learning
 
 - **"Software Testing from Scratch: MasterClass all-in-1" (Udemy)**  
